@@ -5,7 +5,7 @@ public class FormulaCreator {
         char a = 0;
         char b = 0;
 
-        double result = (9 * a * a - 5 * b + 2 + a - 7) * ((a + b - 4 * a * b) / 2);
-        System.out.println(result);
+        double c = (9 * a * a - 5 * b + 2 + a - 7) * ((a + b - 4 * a * b) / 2);
+        System.out.println(c);
     }
 }
